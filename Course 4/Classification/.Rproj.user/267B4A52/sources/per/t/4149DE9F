@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1570977880479.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3223509099",
+    "id" : "4149DE9F",
+    "lastKnownWriteTime" : 1571133299,
+    "last_content_update" : 1571133299603,
+    "path" : "C:/Users/User/Desktop/rgz/1. Classification/src/classification.R",
+    "project_path" : "src/classification.R",
+    "properties" : {
+        "cursorPosition" : "26,2",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

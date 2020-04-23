@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1571124722617.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "899030936",
+    "id" : "E9844473",
+    "lastKnownWriteTime" : 1571137826,
+    "last_content_update" : 1571137826730,
+    "path" : "C:/Users/User/Desktop/rgz/1. Classification/src/graphs/graphs.Rmd",
+    "project_path" : "src/graphs/graphs.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "110,46",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

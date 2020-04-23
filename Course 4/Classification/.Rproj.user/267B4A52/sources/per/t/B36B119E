@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1570729941989.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4191925434",
+    "id" : "B36B119E",
+    "lastKnownWriteTime" : 1571075656,
+    "last_content_update" : 1571075656685,
+    "path" : "C:/Users/User/Desktop/rgz/1. Classification/src/sampleGeneration.R",
+    "project_path" : "src/sampleGeneration.R",
+    "properties" : {
+        "cursorPosition" : "59,3",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
